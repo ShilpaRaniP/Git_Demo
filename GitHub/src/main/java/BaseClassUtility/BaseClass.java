@@ -9,6 +9,7 @@ public class BaseClass {
 	public void BMConfig()
 	{
 		System.out.println("====== LOG IN =======");
+		System.out.println("updated");
 	}
 
 	@AfterMethod
